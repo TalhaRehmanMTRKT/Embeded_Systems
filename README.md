@@ -25,7 +25,7 @@ The code is available: Startup, C, header file that can be directly run through 
 
 ## Obstacle Avoidance Car(simulation based) 
 ##### Using STM32F401CB , STM CubeMx, Proteus, Keil U vision 
-In this project the Motors, Ultrasonic sensor, Servo Motors are used to achieve the goad of Obstacle sensitivity. The code is not available as a separate file.
+In this project the Motors, Ultrasonic sensor, Servo Motors are used to achieve the goal of Obstacle sensitivity. The code is not available as a separate file.
 but the PDF contains the detail steps of how to implement and build from scratch the whole project.
 
 Module Covered: 
