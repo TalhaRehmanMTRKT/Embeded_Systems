@@ -33,6 +33,7 @@ Module Covered:
 1. Motor/ Servo Motors Interfacing (PWM configuration)
 2. Sensors/ LEDs/ Motor Driver interfacing.
 3. GPIO Configuration.
+
 (Building Logic in Keil u vision)
 4. Obstacle avoidance logic based on ultra Sonic Sensor Reading.
 5. Proteus Simulation.
